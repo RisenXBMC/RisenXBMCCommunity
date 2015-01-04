@@ -1,4 +1,0 @@
-RisenXBMCCommunity
-==================
-
-XBMC Community Build
